@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{13DA9C7C-EBFB-40D0-94A1-55B42883DF21}</Property>
+  <Property Name="Name" Type="System.String">64 Bit HP CIO Components Installer</Property>
+  <Property Name="Vendor" Type="System.String">HP Inc.</Property>
+  <Property Name="Version" Type="System.String">21.2.1</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{13DA9C7C-EBFB-40D0-94A1-55B42883DF21}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">7-Zip</Property>
+  <Property Name="Name" Type="System.String">7-Zip 22.01 (x64)</Property>
+  <Property Name="Vendor" Type="System.String">Igor Pavlov</Property>
+  <Property Name="Version" Type="System.String">22.01</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\7-Zip\Uninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{8C96DA47-213B-49D4-8A0C-6DAB2AFB7A5B}</Property>
+  <Property Name="Name" Type="System.String">AccessData NativeViewer</Property>
+  <Property Name="Vendor" Type="System.String">AccessData</Property>
+  <Property Name="Version" Type="System.String">8.4.9.402</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{8C96DA47-213B-49D4-8A0C-6DAB2AFB7A5B}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{AC76BA86-1033-FFFF-7760-BC15014EA700}</Property>
+  <Property Name="Name" Type="System.String">Adobe Acrobat (64-bit)</Property>
+  <Property Name="Vendor" Type="System.String">Adobe</Property>
+  <Property Name="Version" Type="System.String">22.003.20310</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{AC76BA86-1033-FFFF-7760-BC15014EA700}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{44325855-D4CA-4994-A27A-39FE50CE6A8E}</Property>
+  <Property Name="Name" Type="System.String">Apple Mobile Device Support</Property>
+  <Property Name="Vendor" Type="System.String">Apple Inc.</Property>
+  <Property Name="Version" Type="System.String">16.0.0.30</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{44325855-D4CA-4994-A27A-39FE50CE6A8E}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{B292D163-23D2-4523-A699-1ABEC1875609}</Property>
+  <Property Name="Name" Type="System.String">Apple Software Update</Property>
+  <Property Name="Vendor" Type="System.String">Apple Inc.</Property>
+  <Property Name="Version" Type="System.String">2.7.0.3</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{B292D163-23D2-4523-A699-1ABEC1875609}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{0877470A-EA34-42E2-920A-495E92386A0C}</Property>
+  <Property Name="Name" Type="System.String">AutoUpdate</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">6.14.839</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\AutoUpdate\SophosAutoUpdateUninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{4B750290-7873-4598-AA63-6AA24B744821}</Property>
+  <Property Name="Name" Type="System.String">B.C. Civil  Practice Library</Property>
+  <Property Name="Vendor" Type="System.String">&lt;no manufacturer&gt;</Property>
+  <Property Name="Version" Type="System.String">1.00.000</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{4B750290-7873-4598-AA63-6AA24B744821}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{56DDDFB8-7F79-4480-89D5-25E1F52AB28F}</Property>
+  <Property Name="Name" Type="System.String">Bonjour</Property>
+  <Property Name="Vendor" Type="System.String">Apple Inc.</Property>
+  <Property Name="Version" Type="System.String">3.1.0.1</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{56DDDFB8-7F79-4480-89D5-25E1F52AB28F}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{0E341520-E376-4A49-AFFC-D44C058F47D0}</Property>
+  <Property Name="Name" Type="System.String">Cisco Jabber</Property>
+  <Property Name="Vendor" Type="System.String">Cisco Systems, Inc</Property>
+  <Property Name="Version" Type="System.String">12.9.3.54813</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{0E341520-E376-4A49-AFFC-D44C058F47D0}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">ActiveTouchMeetingClient</Property>
+  <Property Name="Name" Type="System.String">Cisco Webex Meetings</Property>
+  <Property Name="Vendor" Type="System.String">Cisco Webex LLC</Property>
+  <Property Name="Version" Type="System.String">41.10.8</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Users\sbhura\AppData\Local\WebEx\atcliun.exe" /x MEETINGS LANGUAGE=EN</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">Citrix Virtual Desktop Agent</Property>
+  <Property Name="Name" Type="System.String">Citrix 7.15 LTSR CU1 - Virtual Delivery Agent</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.150</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Citrix\XenDesktopVdaSetup\XenDesktopVdaSetup.exe" /removeall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{2493975B-8FF9-4603-B35B-54FE1CED81EF}</Property>
+  <Property Name="Name" Type="System.String">Citrix AppDisk VDA Plugin</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.107</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{2493975B-8FF9-4603-B35B-54FE1CED81EF}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{32CEC18D-DA24-489F-8760-C6E3F632C4FF}</Property>
+  <Property Name="Name" Type="System.String">Citrix Authentication Manager</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.6</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{32CEC18D-DA24-489F-8760-C6E3F632C4FF}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{778BA4E8-F5D2-4750-8D64-6BE69A381165}</Property>
+  <Property Name="Name" Type="System.String">Citrix Diagnostics Facility</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.1.3.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{778BA4E8-F5D2-4750-8D64-6BE69A381165}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{7159046C-EFB8-4009-8873-2912FB47EE14}</Property>
+  <Property Name="Name" Type="System.String">Citrix Director VDA Plugin</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.107</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{7159046C-EFB8-4009-8873-2912FB47EE14}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{E878E621-A6DE-425B-A016-48B31842AC68}</Property>
+  <Property Name="Name" Type="System.String">Citrix Group Policy Client-Side Extension 3.1.1000.0</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">3.1.1000.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{E878E621-A6DE-425B-A016-48B31842AC68}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{080FE608-C0A8-4397-AB0F-A97D76FA17D1}</Property>
+  <Property Name="Name" Type="System.String">Citrix HDX WS x64 (retail)</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.70</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{080FE608-C0A8-4397-AB0F-A97D76FA17D1}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{24BA33B1-9FCB-4C0C-BDB9-4BC55BEF6E98}</Property>
+  <Property Name="Name" Type="System.String">Citrix Identity Assertion VDA Plugin</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.114</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{24BA33B1-9FCB-4C0C-BDB9-4BC55BEF6E98}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{33214C89-03CE-491F-8845-1A6C29C4F973}</Property>
+  <Property Name="Name" Type="System.String">Citrix Monitor Service VDA Plugin</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.118</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{33214C89-03CE-491F-8845-1A6C29C4F973}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{FF827E8C-993A-4397-ACE3-A9A173BBA3BE}</Property>
+  <Property Name="Name" Type="System.String">Citrix Personalization AppV - VDA</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.108</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{FF827E8C-993A-4397-ACE3-A9A173BBA3BE}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{9C0514CD-A23E-4756-9914-B53F6901EC11}</Property>
+  <Property Name="Name" Type="System.String">Citrix Screen Casting for Windows</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc</Property>
+  <Property Name="Version" Type="System.String">18.10.100.4</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{9C0514CD-A23E-4756-9914-B53F6901EC11}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{D320EF8F-5E3C-4669-8DAE-E3E3D051529A}</Property>
+  <Property Name="Name" Type="System.String">Citrix Telemetry Service - x64</Property>
+  <Property Name="Vendor" Type="System.String">Citrix</Property>
+  <Property Name="Version" Type="System.String">3.3.0.15006</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{D320EF8F-5E3C-4669-8DAE-E3E3D051529A}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{2759CACF-1F67-4CEF-A33D-3D044C51AC35}</Property>
+  <Property Name="Name" Type="System.String">Citrix Universal Print Client</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.55</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{2759CACF-1F67-4CEF-A33D-3D044C51AC35}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{2DE1A2C6-741C-4F34-B1F7-DCE17C5F4112}</Property>
+  <Property Name="Name" Type="System.String">Citrix Virtual Desktop Agent - x64</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.111</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{2DE1A2C6-741C-4F34-B1F7-DCE17C5F4112}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{432395EC-847C-4668-B011-0A671C0D8CC0}</Property>
+  <Property Name="Name" Type="System.String">Citrix Web Helper</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.20013</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{432395EC-847C-4668-B011-0A671C0D8CC0}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{B8192B9E-0B18-48BD-A47D-2318B5FFCD72}</Property>
+  <Property Name="Name" Type="System.String">Citrix WMI Proxy Plugin</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.107</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{B8192B9E-0B18-48BD-A47D-2318B5FFCD72}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{C240202A-3B03-42ED-A465-004584425BF1}</Property>
+  <Property Name="Name" Type="System.String">Citrix Workspace (HDX Flash Redirection)</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.20023</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{C240202A-3B03-42ED-A465-004584425BF1}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">CitrixOnlinePluginPackWeb</Property>
+  <Property Name="Name" Type="System.String">Citrix Workspace 1810</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.20023</Property>
+  <Property Name="UninstallString" Type="System.String">C:\ProgramData\Citrix\Citrix Workspace 1810\TrolleyExpress.exe /uninstall /cleanup</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{ED46908D-9C61-4F7E-9C4C-374B3D8FC564}</Property>
+  <Property Name="Name" Type="System.String">Citrix WorkSpace Browser</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.20010</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{ED46908D-9C61-4F7E-9C4C-374B3D8FC564}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{E0FF1BDA-9B2B-4956-A6BB-82C583F3CE6D}</Property>
+  <Property Name="Name" Type="System.String">Citrix Workspace Inside</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.65534</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{E0FF1BDA-9B2B-4956-A6BB-82C583F3CE6D}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{1E705EB5-56D6-4E57-9AA2-7713697EA0BF}</Property>
+  <Property Name="Name" Type="System.String">Citrix Workspace(Aero)</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.20023</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{1E705EB5-56D6-4E57-9AA2-7713697EA0BF}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{AEF8D528-98A0-44B9-87D3-D8B06EF1D0E2}</Property>
+  <Property Name="Name" Type="System.String">Citrix Workspace(DV)</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.20023</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{AEF8D528-98A0-44B9-87D3-D8B06EF1D0E2}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{5D2BF062-417B-4222-B692-F8B767B50CF2}</Property>
+  <Property Name="Name" Type="System.String">Citrix Workspace(USB)</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.20023</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{5D2BF062-417B-4222-B692-F8B767B50CF2}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{D066B018-448B-40C5-9034-259BBCC49351}</Property>
+  <Property Name="Name" Type="System.String">DefaultPackMSI</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft</Property>
+  <Property Name="Version" Type="System.String">4.6.2.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{D066B018-448B-40C5-9034-259BBCC49351}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{A0A1796B-1A8C-4687-B062-26C6273B543E}</Property>
+  <Property Name="Name" Type="System.String">DocsCorp cleanDocs</Property>
+  <Property Name="Vendor" Type="System.String">DocsCorp</Property>
+  <Property Name="Version" Type="System.String">2.2.0.20</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{A0A1796B-1A8C-4687-B062-26C6273B543E}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{F4D219B3-8286-4FD5-A160-DFE90AD21695}</Property>
+  <Property Name="Name" Type="System.String">Dolby Atmos Windows API SDK</Property>
+  <Property Name="Vendor" Type="System.String">Dolby Laboratories, Inc.</Property>
+  <Property Name="Version" Type="System.String">1.1.9.33</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{F4D219B3-8286-4FD5-A160-DFE90AD21695}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{D539F055-FFE0-422D-8D57-0D9427E6ABA9}</Property>
+  <Property Name="Name" Type="System.String">Dolby Atmos Windows APP</Property>
+  <Property Name="Vendor" Type="System.String">Dolby Laboratories, Inc.</Property>
+  <Property Name="Version" Type="System.String">1.1.8.23</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{D539F055-FFE0-422D-8D57-0D9427E6ABA9}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{AC76BA86-7AD7-2530-0000-A00000000049}</Property>
+  <Property Name="Name" Type="System.String">Extended Asian Language font pack for Adobe Reader XI</Property>
+  <Property Name="Vendor" Type="System.String">Adobe Systems Incorporated</Property>
+  <Property Name="Version" Type="System.String">11.0.09</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{AC76BA86-7AD7-2530-0000-A00000000049}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{B460110D-ACBF-34F1-883C-CC985072AF9E}</Property>
+  <Property Name="Name" Type="System.String">Google Chrome</Property>
+  <Property Name="Vendor" Type="System.String">Google LLC</Property>
+  <Property Name="Version" Type="System.String">108.0.5359.126</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{B460110D-ACBF-34F1-883C-CC985072AF9E}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{D53290CC-858E-4F97-8527-820DB497B51C}</Property>
+  <Property Name="Name" Type="System.String">Intel(R) Management Engine Components</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">1.0.0.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{D53290CC-858E-4F97-8527-820DB497B51C}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{9435FBA7-2E47-49A9-861E-8934EBDE5A44}</Property>
+  <Property Name="Name" Type="System.String">Intel(R) Management Engine Components</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">1.0.0.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{9435FBA7-2E47-49A9-861E-8934EBDE5A44}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{497EF84E-F8C1-495B-9365-018AD2C6E756}</Property>
+  <Property Name="Name" Type="System.String">Intel(R) Management Engine Components</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">1.0.0.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{497EF84E-F8C1-495B-9365-018AD2C6E756}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{1CEAC85D-2590-4760-800F-8DE5E91F3700}</Property>
+  <Property Name="Name" Type="System.String">Intel(R) Management Engine Components</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">2238.3.31.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Intel Package Cache {1CEAC85D-2590-4760-800F-8DE5E91F3700}\Setup.exe" -uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{6A1E180E-5E4B-4431-8C80-EA82D118A30E}</Property>
+  <Property Name="Name" Type="System.String">Intel(R) Management Engine Driver</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">1.0.0.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{6A1E180E-5E4B-4431-8C80-EA82D118A30E}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{E9B9A1A5-6398-4C99-8FDE-10794F6505C5}</Property>
+  <Property Name="Name" Type="System.String">Intel(R) ME UninstallLegacy</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">1.0.1.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{E9B9A1A5-6398-4C99-8FDE-10794F6505C5}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{933489C2-841D-4F0F-8980-885C10C3C7FA}</Property>
+  <Property Name="Name" Type="System.String">Intel(R) SOL No LMS Extension</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">1.0.0.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{933489C2-841D-4F0F-8980-885C10C3C7FA}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{C9552825-7BF2-4344-BA91-D3CD46F4C442}</Property>
+  <Property Name="Name" Type="System.String">Intel(R) Trusted Connect Service Client x64</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">1.65.245.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{C9552825-7BF2-4344-BA91-D3CD46F4C442}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{C9552825-7BF2-4344-BA91-D3CD46F4C441}</Property>
+  <Property Name="Name" Type="System.String">Intel(R) Trusted Connect Service Client x86</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">1.65.245.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{C9552825-7BF2-4344-BA91-D3CD46F4C441}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{1be68cd9-7dbd-4481-816f-a0a7ec6359bd}</Property>
+  <Property Name="Name" Type="System.String">Intel(R) Trusted Connect Services Client</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">1.65.245.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{1be68cd9-7dbd-4481-816f-a0a7ec6359bd}\iclsClientInstaller.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{c346838b-4bdc-44aa-b9c9-fa371a8f8e8f}</Property>
+  <Property Name="Name" Type="System.String">Intel® PROSet/Wireless Software</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">21.30.2.0u</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{c346838b-4bdc-44aa-b9c9-fa371a8f8e8f}\ISetup.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{32A03EF3-57C8-4191-908E-F259389431F5}</Property>
+  <Property Name="Name" Type="System.String">Intel® PROSet/Wireless WiFi Software</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">21.30.2.3277</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{32A03EF3-57C8-4191-908E-F259389431F5}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{E523D0F3-E8AE-4577-913D-52F5FCF4483F}</Property>
+  <Property Name="Name" Type="System.String">InvGate Assets Client</Property>
+  <Property Name="Vendor" Type="System.String">InvGate</Property>
+  <Property Name="Version" Type="System.String">5.001.037</Property>
+  <Property Name="UninstallString" Type="System.Object" />
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{44B55B48-DEF1-4384-A4E0-10933F65B44A}</Property>
+  <Property Name="Name" Type="System.String">iTunes</Property>
+  <Property Name="Vendor" Type="System.String">Apple Inc.</Property>
+  <Property Name="Version" Type="System.String">12.12.7.1</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{44B55B48-DEF1-4384-A4E0-10933F65B44A}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{26A24AE4-039D-4CA4-87B4-2F32180341F0}</Property>
+  <Property Name="Name" Type="System.String">Java 8 Update 341</Property>
+  <Property Name="Vendor" Type="System.String">Oracle Corporation</Property>
+  <Property Name="Version" Type="System.String">8.0.3410.10</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{26A24AE4-039D-4CA4-87B4-2F32180341F0}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">TVSU_is1</Property>
+  <Property Name="Name" Type="System.String">Lenovo System Update</Property>
+  <Property Name="Vendor" Type="System.String">Lenovo</Property>
+  <Property Name="Version" Type="System.String">5.08.01.0005</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files (x86)\Lenovo\System Update\unins000.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">Lenovo USB Audio_is1</Property>
+  <Property Name="Name" Type="System.String">Lenovo USB Audio</Property>
+  <Property Name="Vendor" Type="System.String">Lenovo Group Limited</Property>
+  <Property Name="Version" Type="System.String">1.31.38.54</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\WINDOWS\unins000.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{08F9136D-03F6-44E5-B671-0C795E3EF188}</Property>
+  <Property Name="Name" Type="System.String">Machine Management WMI Provider</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems,Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.110</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{08F9136D-03F6-44E5-B671-0C795E3EF188}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">O365ProPlusRetail - en-us</Property>
+  <Property Name="Name" Type="System.String">Microsoft 365 Apps for enterprise - en-us</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">16.0.14931.20858</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe" scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365ProPlusRetail.16_en-us_x-none culture=en-us version.16=16.0</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{27990F25-A90A-4CE5-868E-1A1BB70A58EE}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Bing Service</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">2.0.0.7</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{27990F25-A90A-4CE5-868E-1A1BB70A58EE}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">Microsoft Edge</Property>
+  <Property Name="Name" Type="System.String">Microsoft Edge</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">108.0.1462.76</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files (x86)\Microsoft\Edge\Application\108.0.1462.76\Installer\setup.exe" --uninstall --msedge --channel=stable --system-level --verbose-logging</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">Microsoft Edge Update</Property>
+  <Property Name="Name" Type="System.String">Microsoft Edge Update</Property>
+  <Property Name="Vendor" Type="System.Object" />
+  <Property Name="Version" Type="System.String">1.3.171.39</Property>
+  <Property Name="UninstallString" Type="System.Object" />
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">Microsoft EdgeWebView</Property>
+  <Property Name="Name" Type="System.String">Microsoft Edge WebView2 Runtime</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">108.0.1462.76</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.76\Installer\setup.exe" --uninstall --msedgewebview --system-level --verbose-logging</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{BE6D5464-0B1F-46CC-8973-F9651FE6A45A}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Lync Web App Plug-in</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">15.8.8308.965</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{BE6D5464-0B1F-46CC-8973-F9651FE6A45A}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{3ECE8FC7-7020-4756-A71C-C345D4725B77}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Report Viewer 2015 Runtime</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.2402.15</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{3ECE8FC7-7020-4756-A71C-C345D4725B77}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Silverlight</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">5.1.50918.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{718FFB65-F6E4-4D62-861F-ED10ED32C936}</Property>
+  <Property Name="Name" Type="System.String">Microsoft System CLR Types for SQL Server 2014</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.2402.11</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{718FFB65-F6E4-4D62-861F-ED10ED32C936}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{6CC9F172-F995-439A-9F1A-3C40311CABD5}</Property>
+  <Property Name="Name" Type="System.String">Microsoft VC++ redistributables repacked.</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.0.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{6CC9F172-F995-439A-9F1A-3C40311CABD5}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{B45E323E-F30E-44D3-9B36-EE116268AF9E}</Property>
+  <Property Name="Name" Type="System.String">Microsoft VC++ redistributables repacked.</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.0.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{B45E323E-F30E-44D3-9B36-EE116268AF9E}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{9BE518E6-ECC6-35A9-88E4-87755C07200F}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">9.0.30729.6161</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">10.0.40219</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">10.0.40219</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">11.0.61030.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}\vcredist_x64.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">11.0.61030.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}\vcredist_x86.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{37B8F9C7-03FB-3253-8781-2517C99D7C00}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">11.0.61030</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{37B8F9C7-03FB-3253-8781-2517C99D7C00}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">11.0.61030</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{B175520C-86A2-35A7-8619-86DC379688B9}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">11.0.61030</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{B175520C-86A2-35A7-8619-86DC379688B9}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">11.0.61030</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{050d4fc8-5d48-4b8f-8972-47c82c46020f}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.30501.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{050d4fc8-5d48-4b8f-8972-47c82c46020f}\vcredist_x64.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.40664.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}\vcredist_x64.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{f65db027-aff3-4070-886a-0d87064aabb1}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.30501.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{f65db027-aff3-4070-886a-0d87064aabb1}\vcredist_x86.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{9dff3540-fc85-4ed5-ac84-9e3c7fd8bece}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.40664.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{9dff3540-fc85-4ed5-ac84-9e3c7fd8bece}\vcredist_x86.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{010792BA-551A-3AC0-A7EF-0FAB4156C382}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.40664</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{010792BA-551A-3AC0-A7EF-0FAB4156C382}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{53CF6934-A98D-3D84-9146-FC4EDF3D5641}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.40664</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{53CF6934-A98D-3D84-9146-FC4EDF3D5641}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{D401961D-3A20-3AC7-943B-6139D5BD490A}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.40664</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{D401961D-3A20-3AC7-943B-6139D5BD490A}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{8122DAB1-ED4D-3676-BB0A-CA368196543E}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">12.0.40664</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{8122DAB1-ED4D-3676-BB0A-CA368196543E}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{2d507699-404c-4c8b-a54a-38e352f32cdd}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31326</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">14.32.31326.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{2d507699-404c-4c8b-a54a-38e352f32cdd}\VC_redist.x64.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{817e21c1-6b3a-4bc1-8c49-67e4e1887b3a}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31326</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">14.32.31326.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{817e21c1-6b3a-4bc1-8c49-67e4e1887b3a}\VC_redist.x86.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{38624EB5-356D-4B08-8357-C33D89A5C0C5}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2022 X64 Additional Runtime - 14.32.31326</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">14.32.31326</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{38624EB5-356D-4B08-8357-C33D89A5C0C5}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{C96241EA-9900-4FE8-85B3-1E238D509DF6}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.32.31326</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">14.32.31326</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{C96241EA-9900-4FE8-85B3-1E238D509DF6}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{A250E750-DB3F-40C1-8460-8EF77C7582DA}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2022 X86 Additional Runtime - 14.32.31326</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">14.32.31326</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{A250E750-DB3F-40C1-8460-8EF77C7582DA}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{46E11E7F-01E1-44D0-BB86-C67342D253DD}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.32.31326</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">14.32.31326</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{46E11E7F-01E1-44D0-BB86-C67342D253DD}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">10.0.60724</Property>
+  <Property Name="UninstallString" Type="System.String">c:\Program Files\Common Files\Microsoft Shared\VSTO\10.0\Microsoft Visual Studio 2010 Tools for Office Runtime (x64)\install.exe</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{7C0242A3-8B66-35D1-9FE0-13B426ACB609}</Property>
+  <Property Name="Name" Type="System.String">Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">10.0.60729</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{7C0242A3-8B66-35D1-9FE0-13B426ACB609}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{3DE58D17-5FDD-4F4E-9CAD-25582A92B164}</Property>
+  <Property Name="Name" Type="System.String">NetDocuments Document Activation</Property>
+  <Property Name="Vendor" Type="System.String">NetDocuments</Property>
+  <Property Name="Version" Type="System.String">4.6.0.8</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{3DE58D17-5FDD-4F4E-9CAD-25582A92B164}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{B6D28A9E-8CF1-4601-86FE-410FA0C82609}</Property>
+  <Property Name="Name" Type="System.String">NetDocuments ndAdobe</Property>
+  <Property Name="Vendor" Type="System.String">NetDocuments</Property>
+  <Property Name="Version" Type="System.String">3.4.0.1</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{B6D28A9E-8CF1-4601-86FE-410FA0C82609}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{A1C2E6C4-891A-4877-B6E5-274A0280FA8A}</Property>
+  <Property Name="Name" Type="System.String">NetDocuments ndMail</Property>
+  <Property Name="Vendor" Type="System.String">NetDocuments</Property>
+  <Property Name="Version" Type="System.String">1.9.0.8593</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{A1C2E6C4-891A-4877-B6E5-274A0280FA8A}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{D4340AFA-AAEF-4DEB-99D3-39FE899212AD}</Property>
+  <Property Name="Name" Type="System.String">NetDocuments ndMail Folder Mapping</Property>
+  <Property Name="Vendor" Type="System.String">NetDocuments</Property>
+  <Property Name="Version" Type="System.String">1.0.7517</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{D4340AFA-AAEF-4DEB-99D3-39FE899212AD}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{fce954b0-5c1e-4442-acfc-54865b330c84}</Property>
+  <Property Name="Name" Type="System.String">NetDocuments ndMail Installer</Property>
+  <Property Name="Vendor" Type="System.String">NetDocuments</Property>
+  <Property Name="Version" Type="System.String">1.9.0.8593</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{fce954b0-5c1e-4442-acfc-54865b330c84}\ndMailSetup-1.9.0.8593.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{14AF8F7A-E49B-41BE-A4D9-1DE61B74D7DB}</Property>
+  <Property Name="Name" Type="System.String">NetDocuments ndOffice</Property>
+  <Property Name="Vendor" Type="System.String">NetDocuments</Property>
+  <Property Name="Version" Type="System.String">3.1.2.18771</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{14AF8F7A-E49B-41BE-A4D9-1DE61B74D7DB}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{783aea1c-1f6f-4aa6-9ab2-3a25fc529e03}</Property>
+  <Property Name="Name" Type="System.String">NetDocuments ndOffice Installer</Property>
+  <Property Name="Vendor" Type="System.String">NetDocuments</Property>
+  <Property Name="Version" Type="System.String">3.1.2.18771</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\ProgramData\Package Cache\{783aea1c-1f6f-4aa6-9ab2-3a25fc529e03}\NdOfficeSetup.exe"  /uninstall</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{90160000-008C-0000-1000-0000000FF1CE}</Property>
+  <Property Name="Name" Type="System.String">Office 16 Click-to-Run Extensibility Component</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">16.0.14931.20392</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{90160000-008C-0000-1000-0000000FF1CE}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{90160000-007E-0000-1000-0000000FF1CE}</Property>
+  <Property Name="Name" Type="System.String">Office 16 Click-to-Run Licensing Component</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">16.0.14931.20858</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{90160000-007E-0000-1000-0000000FF1CE}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{90160000-008C-0409-1000-0000000FF1CE}</Property>
+  <Property Name="Name" Type="System.String">Office 16 Click-to-Run Localization Component</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">16.0.13801.20638</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{90160000-008C-0409-1000-0000000FF1CE}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{B1DF7A1C-B1D5-48C5-9380-966B2D5B82AA}</Property>
+  <Property Name="Name" Type="System.String">Olympus Dictation Management System R6 DM/TM</Property>
+  <Property Name="Vendor" Type="System.String">OLYMPUS CORPORATION</Property>
+  <Property Name="Version" Type="System.String">6.4.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{B1DF7A1C-B1D5-48C5-9380-966B2D5B82AA}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{AB963032-C7C6-4647-8683-3205A907FDE6}</Property>
+  <Property Name="Name" Type="System.String">Online Plug-in</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.20023</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{AB963032-C7C6-4647-8683-3205A907FDE6}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{9CC8D926-4873-45E4-989A-A3DE3F22BF0E}</Property>
+  <Property Name="Name" Type="System.String">OutsideX32</Property>
+  <Property Name="Vendor" Type="System.String">Oracle Corporation</Property>
+  <Property Name="Version" Type="System.String">8.4.1.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{9CC8D926-4873-45E4-989A-A3DE3F22BF0E}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{FC5470CB-10B2-41BD-9F7E-56FB0F14569B}</Property>
+  <Property Name="Name" Type="System.String">Panasonic DRM Media Plugin</Property>
+  <Property Name="Vendor" Type="System.String">Panasonic Avionics Corporation</Property>
+  <Property Name="Version" Type="System.String">3.0.4.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{FC5470CB-10B2-41BD-9F7E-56FB0F14569B}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{64F5B3B6-2F99-4E89-8145-994A1F320615}</Property>
+  <Property Name="Name" Type="System.String">Panasonic DRM Media Plugin</Property>
+  <Property Name="Vendor" Type="System.String">Panasonic Avionics Corporation</Property>
+  <Property Name="Version" Type="System.String">3.0.4.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{64F5B3B6-2F99-4E89-8145-994A1F320615}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{F9FE5F74-336F-4E73-8860-5E393439D5FF}</Property>
+  <Property Name="Name" Type="System.String">Phish Alert</Property>
+  <Property Name="Vendor" Type="System.String">KnowBe4</Property>
+  <Property Name="Version" Type="System.String">1.4.85</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{F9FE5F74-336F-4E73-8860-5E393439D5FF}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{421FB4B4-6D95-4CD1-AA89-2E104FAF50F8}</Property>
+  <Property Name="Name" Type="System.String">RightFax Print Processor x64</Property>
+  <Property Name="Vendor" Type="System.String">Open Text, Inc.</Property>
+  <Property Name="Version" Type="System.String">11.0.4.720</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{421FB4B4-6D95-4CD1-AA89-2E104FAF50F8}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{0778A0F8-C7D2-49F3-91D0-FE3B8A0F556C}</Property>
+  <Property Name="Name" Type="System.String">RightFax Product Suite - Client</Property>
+  <Property Name="Vendor" Type="System.String">Open Text, Inc.</Property>
+  <Property Name="Version" Type="System.String">11.0.4.720</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{0778A0F8-C7D2-49F3-91D0-FE3B8A0F556C}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{B60C695C-EF2F-4826-9106-417ED7A68658}</Property>
+  <Property Name="Name" Type="System.String">RightFax Product Suite - Client</Property>
+  <Property Name="Vendor" Type="System.String">Open Text, Inc.</Property>
+  <Property Name="Version" Type="System.String">11.0.4.720</Property>
+  <Property Name="UninstallString" Type="System.String">msiexec.exe /x {0778A0F8-C7D2-49F3-91D0-FE3B8A0F556C} RUNBYRIGHTFAXSETUP=2 INSTALLMAPIPRINTER=2 INSTALLVIMPRINTER=2 CONFIGUREFAXCTRL=2 CONFIGUREFAXUTIL=2 CONFIGUREOUTLOOKCLIENT=2 CONFIGUREEDOCS=2</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{DBCDB997-EEEB-4BE9-BAFF-26B4094DBDE6}</Property>
+  <Property Name="Name" Type="System.String">ScanSnap Manager</Property>
+  <Property Name="Vendor" Type="System.String">PFU</Property>
+  <Property Name="Version" Type="System.String">V6.2L20</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files (x86)\InstallShield Installation Information\{DBCDB997-EEEB-4BE9-BAFF-26B4094DBDE6}\setup.exe" -runfromtemp -l0x0009 UNINSTALL -removeonly</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{5AA4E86A-11D1-47A6-A10A-B5B5E0AF66C0}</Property>
+  <Property Name="Name" Type="System.String">ScanSnap Manager</Property>
+  <Property Name="Vendor" Type="System.String">PFU</Property>
+  <Property Name="Version" Type="System.String">6.2.20.4.3</Property>
+  <Property Name="UninstallString" Type="System.Object" />
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{28E80599-D329-4377-9B08-74EC3CF17BDB}</Property>
+  <Property Name="Name" Type="System.String">ScreenConnect Client (a6fba7a37ce785ee)</Property>
+  <Property Name="Vendor" Type="System.String">ScreenConnect Software</Property>
+  <Property Name="Version" Type="System.String">22.9.10589.8370</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{28E80599-D329-4377-9B08-74EC3CF17BDB}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{EF3894E4-6739-4464-81FF-3808BFBFFBC2}</Property>
+  <Property Name="Name" Type="System.String">Self-service Plug-in</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems, Inc.</Property>
+  <Property Name="Version" Type="System.String">18.10.0.20013</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{EF3894E4-6739-4464-81FF-3808BFBFFBC2}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{0EA5323F-DE1B-480C-911E-7827E5EA20E9}</Property>
+  <Property Name="Name" Type="System.String">Sophos AMSI Protection</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">1.9.874</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Sophos AMSI Protection\Uninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{8078549C-CFF0-48C5-9B77-6BA48A14673D}</Property>
+  <Property Name="Name" Type="System.String">Sophos Diagnostic Utility</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">6.14.842</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Sophos Diagnostic Utility\SophosSduUninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{258F3C41-B03D-478A-8972-50F14E02841E}</Property>
+  <Property Name="Name" Type="System.String">Sophos Endpoint Agent</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">2.7.258.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Sophos UI\SophosUIUninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">Sophos Endpoint Agent</Property>
+  <Property Name="Name" Type="System.String">Sophos Endpoint Agent</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">2022.4.0.4</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Sophos Endpoint Agent\SophosUninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">Sophos Endpoint Defense</Property>
+  <Property Name="Name" Type="System.String">Sophos Endpoint Defense</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">3.1.2.905</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Endpoint Defense\SEDuninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{2831282D-8519-4910-B339-2302840ABEF3}</Property>
+  <Property Name="Name" Type="System.String">Sophos Endpoint Firewall</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">2.2.27</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Endpoint Firewall\SophosEfwUninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{4EFCDD15-24A2-4D89-84A4-857D1BF68FA8}</Property>
+  <Property Name="Name" Type="System.String">Sophos Endpoint Self Help</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">3.3.179.0</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Endpoint Self Help\SophosESHUninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{866151B2-E14E-40E0-B6D9-64B1D428F5CB}</Property>
+  <Property Name="Name" Type="System.String">Sophos Exploit Prevention</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">3.9.0.1391</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files (x86)\HitmanPro.Alert\Uninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{CD39E739-F480-4AC4-B0C9-68CA731D8AC6}</Property>
+  <Property Name="Name" Type="System.String">Sophos File Scanner</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">1.10.7.68</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Sophos File Scanner\SophosFSUninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{5E8436D5-3688-4007-94C7-55D017275F89}</Property>
+  <Property Name="Name" Type="System.String">Sophos Health</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">2.10.158</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files (x86)\Sophos\Health\Uninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{2C14E1A2-C4EB-466E-8374-81286D723D3A}</Property>
+  <Property Name="Name" Type="System.String">Sophos Management Communications System</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">4.18.215</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files (x86)\Sophos\Management Communications System\Endpoint\Uninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">Sophos ML Engine</Property>
+  <Property Name="Name" Type="System.String">Sophos ML Engine</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">1.8.17.8</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Sophos ML Engine\SophosSMEUninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{2D2A1891-4657-4E6F-9373-BFCE4C9AC5BA}</Property>
+  <Property Name="Name" Type="System.String">Sophos Network Threat Protection</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">1.17.710</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Sophos Network Threat Protection\SophosNtpUninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">Sophos Standalone Engine</Property>
+  <Property Name="Name" Type="System.String">Sophos Standalone Engine</Property>
+  <Property Name="Vendor" Type="System.String">Sophos Limited</Property>
+  <Property Name="Version" Type="System.String">1.8.17.8</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\Sophos\Sophos Standalone Engine\SophosSSEUninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{731F6BAA-A986-45A4-8936-7C3AAAAA760B}</Property>
+  <Property Name="Name" Type="System.String">Teams Machine-Wide Installer</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">1.3.0.9267</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{731F6BAA-A986-45A4-8936-7C3AAAAA760B}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{04201224-2B34-4EE7-862B-B7BBF89DB3AB}</Property>
+  <Property Name="Name" Type="System.String">Thinkpad USB Ethernet Adapter Driver</Property>
+  <Property Name="Vendor" Type="System.String">Lenovo</Property>
+  <Property Name="Version" Type="System.String">10.55.823.2022</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files (x86)\InstallShield Installation Information\{04201224-2B34-4EE7-862B-B7BBF89DB3AB}\setup.exe" -runfromtemp -removeonly</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{1AA93FF8-C685-4E00-8682-7F2E5D8E8689}</Property>
+  <Property Name="Name" Type="System.String">Thunderbolt™ Software</Property>
+  <Property Name="Vendor" Type="System.String">Intel Corporation</Property>
+  <Property Name="Version" Type="System.String">17.4.80.550</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{1AA93FF8-C685-4E00-8682-7F2E5D8E8689}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{DEE0B752-52D8-4615-9BEE-1EDA46628960}</Property>
+  <Property Name="Name" Type="System.String">TightVNC</Property>
+  <Property Name="Vendor" Type="System.String">GlavSoft LLC.</Property>
+  <Property Name="Version" Type="System.String">2.8.8.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{DEE0B752-52D8-4615-9BEE-1EDA46628960}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{208F9546-8DC1-4BEA-8E05-F35085BC6204}</Property>
+  <Property Name="Name" Type="System.String">Tikit Carpe Diem SideBar</Property>
+  <Property Name="Vendor" Type="System.String">Tikit</Property>
+  <Property Name="Version" Type="System.String">7.1.0.18341</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{208F9546-8DC1-4BEA-8E05-F35085BC6204}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{BFE86DC2-9E3B-433F-BDFC-AA96EEAEC2AE}</Property>
+  <Property Name="Name" Type="System.String">Tikit Carpe Diem Time Entry</Property>
+  <Property Name="Vendor" Type="System.String">Tikit</Property>
+  <Property Name="Version" Type="System.String">7.2.2.19241</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /I{BFE86DC2-9E3B-433F-BDFC-AA96EEAEC2AE}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{32DC821E-4A7D-4878-BEE8-337FA153D7F2}</Property>
+  <Property Name="Name" Type="System.String">Update for Windows 10 for x64-based Systems (KB4023057)</Property>
+  <Property Name="Vendor" Type="System.String">Microsoft Corporation</Property>
+  <Property Name="Version" Type="System.String">2.63.0.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{32DC821E-4A7D-4878-BEE8-337FA153D7F2}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{3FA0D286-6455-48A9-B884-9F32270E1DF1}</Property>
+  <Property Name="Name" Type="System.String">UpmVDAPlugin</Property>
+  <Property Name="Vendor" Type="System.String">Citrix Systems Inc.</Property>
+  <Property Name="Version" Type="System.String">7.15.1000.34</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{3FA0D286-6455-48A9-B884-9F32270E1DF1}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">VLC media player</Property>
+  <Property Name="Name" Type="System.String">VLC media player</Property>
+  <Property Name="Vendor" Type="System.String">VideoLAN</Property>
+  <Property Name="Version" Type="System.String">3.0.8</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files\VideoLAN\VLC\uninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">VulkanRT1.1.70.0</Property>
+  <Property Name="Name" Type="System.String">Vulkan Run Time Libraries 1.1.70.0</Property>
+  <Property Name="Vendor" Type="System.String">LunarG, Inc.</Property>
+  <Property Name="Version" Type="System.String">1.1.70.0</Property>
+  <Property Name="UninstallString" Type="System.String">C:\Program Files (x86)\VulkanRT\1.1.70.0\UninstallVulkanRT.exe</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">WeChat</Property>
+  <Property Name="Name" Type="System.String">WeChat</Property>
+  <Property Name="Vendor" Type="System.String">腾讯科技(深圳)有限公司</Property>
+  <Property Name="Version" Type="System.String">3.8.1.26</Property>
+  <Property Name="UninstallString" Type="System.String">"C:\Program Files (x86)\Tencent\WeChat\Uninstall.exe"</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">B757445117C6A0C55D3FFFC6CF7A9C05A6A5D74E</Property>
+  <Property Name="Name" Type="System.String">Windows Driver Package - Lenovo Monitor  (11/09/2018 6.10.0.0)</Property>
+  <Property Name="Vendor" Type="System.String">Lenovo</Property>
+  <Property Name="Version" Type="System.String">11/09/2018 6.10.0.0</Property>
+  <Property Name="UninstallString" Type="System.String">C:\PROGRA~1\DIFX\5D4699~1\dpinst.exe /u C:\Windows\System32\DriverStore\FileRepository\tplcd.inf_amd64_56d71069ed894c96\tplcd.inf</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">70955B2D1145D4C287B9BCC9261F1373F550212B</Property>
+  <Property Name="Name" Type="System.String">Windows Driver Package - OpenText Printer  (01/01/2013 11.0.4.720)</Property>
+  <Property Name="Vendor" Type="System.String">OpenText</Property>
+  <Property Name="Version" Type="System.String">01/01/2013 11.0.4.720</Property>
+  <Property Name="UninstallString" Type="System.String">rundll32.exe C:\PROGRA~1\DIFX\4CBAA6~1\DIFxAppA.dll, DIFxARPUninstallDriverPackage C:\Windows\System32\DriverStore\FileRepository\rfps.inf_amd64_2d353fd5e0e8d837\rfps.inf</Property>
+  <Property Name="UnavailableCommands" Type="System.String">|UninstallSoftware|</Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{4457B621-68C1-4B3D-6ECC-F905B42AA703}</Property>
+  <Property Name="Name" Type="System.String">Workspace ONE Intelligent Hub Installer</Property>
+  <Property Name="Vendor" Type="System.String">VMware, Inc.</Property>
+  <Property Name="Version" Type="System.String">22.3.3.0</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{4457B621-68C1-4B3D-6ECC-F905B42AA703}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{6B273327-02D7-4AE4-89CE-8B8E233622BC}</Property>
+  <Property Name="Name" Type="System.String">Xcelerate Addin v3</Property>
+  <Property Name="Vendor" Type="System.String">Xcelerate Systems</Property>
+  <Property Name="Version" Type="System.String">20.4.3.1124</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{6B273327-02D7-4AE4-89CE-8B8E233622BC}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+<Object Type="System.Management.Automation.PSCustomObject">
+  <Property Name="IdentifyingNumber" Type="System.String">{36647A65-D732-4407-B674-D3790273E2AD}</Property>
+  <Property Name="Name" Type="System.String">Zoom(64bit)</Property>
+  <Property Name="Vendor" Type="System.String">Zoom</Property>
+  <Property Name="Version" Type="System.String">5.12.9281</Property>
+  <Property Name="UninstallString" Type="System.String">MsiExec.exe /X{36647A65-D732-4407-B674-D3790273E2AD}</Property>
+  <Property Name="UnavailableCommands" Type="System.String"></Property>
+</Object>
+</Objects>

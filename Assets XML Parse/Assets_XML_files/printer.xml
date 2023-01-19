@@ -1,0 +1,4577 @@
+﻿<DocumentElement>
+  <UNNAMED_REPORT>
+    <Name>30P01-GENERAL</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60165</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.112</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>48:9E:BD:C8:7E:D9</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2022-05-27T12:10:06.123-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:11:28.503-08:00</Lastseen>
+    <LastTried>2023-01-17T12:11:28.503-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI25030030,CIDATE 11/09/2021</Description>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHNC17UHJR</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>30P03-General</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60165</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.39</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>9C:7B:EF:84:A2:0F</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2019-09-18T12:09:59.807-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:25.66-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:25.66-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24080014,CIDATE 06/13/2019</Description>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCM5D0ZT</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>30P04</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60165</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.46</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>9C:7B:EF:86:ED:F8</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2022-05-27T12:09:03.483-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:49.017-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:49.017-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24100002,CIDATE 12/11/2019</Description>
+    <FQDN />
+    <DNS_Name>30P04.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCM6T3G9</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>30P04</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60165</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.109</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>9C:7B:EF:84:82:98</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2019-09-18T12:10:12.197-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:11:27.22-08:00</Lastseen>
+    <LastTried>2023-01-17T12:11:27.22-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24080014,CIDATE 06/13/2019</Description>
+    <FQDN />
+    <DNS_Name>30P04.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCM5D03Y</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>30P06</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60165</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.130</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>C4:65:16:DD:F9:29</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2020-05-24T12:10:35.633-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:11:52.487-08:00</Lastseen>
+    <LastTried>2023-01-17T12:11:52.487-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24100002,CIDATE 12/11/2019</Description>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCM5D11Z</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31C01</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>Canon iR-ADV 6265 27.04</Model>
+    <Manufacturer>CANON Inc.</Manufacturer>
+    <IP_Address>192.168.100.102</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>2C:9E:FC:1C:68:EC</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2015-12-18T15:23:44.75-08:00</Firstseen>
+    <Lastseen>2021-12-29T12:37:02.97-08:00</Lastseen>
+    <LastTried>2021-12-29T12:37:02.97-08:00</LastTried>
+    <Description>Canon iR-ADV 6265 /P</Description>
+    <FQDN />
+    <DNS_Name>31c01.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>NML06495</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31Cheque2</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.73</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>FC:3F:DB:C1:29:F9</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2016-07-22T12:03:39.777-07:00</Firstseen>
+    <Lastseen>2022-01-09T13:10:22.567-08:00</Lastseen>
+    <LastTried>2022-01-09T13:10:22.567-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQD30086,FN:1L37HKY,SVCID:26184,PID:31Cheque2</Description>
+    <Purchase_Date>2016-04-19T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2017-05-18T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>31Cheque2.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQD30086</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31P01</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 600 M602</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.50</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>A4:5D:36:63:45:54</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:57.59-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:43.957-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:43.957-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23250001,CIDATE 04/21/2014</Description>
+    <Purchase_Date>2013-10-03T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2014-11-01T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>31P01.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNCCF9L0N4</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31P04</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 600 M602</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.66</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>08:2E:5F:B9:70:CC</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:11.687-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:11:26.3-08:00</Lastseen>
+    <LastTried>2023-01-17T12:11:26.3-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23250001,CIDATE 04/21/2014</Description>
+    <Purchase_Date>2012-06-20T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2013-06-19T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>31P04.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNBCCD71MR</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31P05</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P4015</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.54</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:21:5A:7A:D7:51</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:57.887-08:00</Firstseen>
+    <Lastseen>2022-12-29T12:07:31.213-08:00</Lastseen>
+    <LastTried>2022-12-29T12:07:31.213-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.43.39,CIDATE 07/15/2014</Description>
+    <Purchase_Date>2008-08-26T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2009-09-24T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>31P05.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNDY229318</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31P07</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60065</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.69</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F4:30:B9:73:D0:32</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2017-10-24T12:03:25.88-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:30.33-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:30.33-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24050147,CIDATE 12/05/2017</Description>
+    <Purchase_Date>2017-07-25T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2018-08-23T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCK7L15G</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31P09</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P4015</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.36</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:21:5A:94:21:C4</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:44.263-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:16.877-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:16.877-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.43.39,CIDATE 07/15/2014</Description>
+    <Purchase_Date>2009-07-07T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2010-08-05T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>31P09.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNDY359211</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31P11-PERSONAL</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain>WORKGROUP</Domain>
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet Pro M404dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.35</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>30:24:A9:04:B6:34</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2021-05-15T12:11:19.127-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:07.003-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:07.003-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT</Description>
+    <FQDN />
+    <DNS_Name>31P11.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHDBH00686</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31P15</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP Color LaserJet M553</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.15</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>B0:5A:DA:C7:11:44</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2016-01-06T12:03:35.89-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:41.3-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:41.3-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23600140,CIDATE 07/21/2015</Description>
+    <Purchase_Date>2016-01-05T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2017-01-04T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>31P15.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>JPBCHCQ11W</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>845.81</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Not_Affected_by_Cleanup_Options>false</Not_Affected_by_Cleanup_Options>
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31p17-Personal</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.24</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F4:30:B9:EE:B2:5D</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2017-11-09T12:03:02.553-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:51.517-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:51.517-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQD70047,FN:1L69FHZ,SVCID:27306,PID:31P17-Personal</Description>
+    <Purchase_Date>2017-11-07T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2018-11-06T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>31p17.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQD70047</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31P20</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.43</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>10:60:4B:13:2C:3C</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:44.31-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:19.923-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:19.923-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:VNB4M13126,FN:X621SPD,SVCID:23051,PID:HP LaserJet 400 M401dn</Description>
+    <Purchase_Date>2013-02-21T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2014-02-20T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>31P20.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>VNB4M13126</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31P25-FLOATER</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain>WORKGROUP</Domain>
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet Pro M404dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.71</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F8:0D:AC:F6:09:79</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2023-01-13T12:10:31.667-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:24.017-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:24.017-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT</Description>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>VND3F01150</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>31P25-Personal</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.88</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>48:BA:4E:36:45:E4</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2018-04-06T12:04:10.013-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:51.407-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:51.407-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQD76401,FN:1L6C306,SVCID:28029,PID:PRehatch</Description>
+    <Purchase_Date>2017-12-06T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2019-01-04T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQD76401</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>32C01</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>Canon iR-ADV 6265 27.04</Model>
+    <Manufacturer>CANON Inc.</Manufacturer>
+    <IP_Address>192.168.100.106</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>2C:9E:FC:1C:69:27</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2015-12-18T15:23:46.517-08:00</Firstseen>
+    <Lastseen>2021-12-29T12:37:19.893-08:00</Lastseen>
+    <LastTried>2021-12-29T12:37:19.893-08:00</LastTried>
+    <Description>Canon iR-ADV 6265 /P</Description>
+    <FQDN />
+    <DNS_Name>32c01.harpergrey.internal</DNS_Name>
+    <Location>32nd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>NML06522</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>32P02</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 600 M602</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.56</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>38:63:BB:03:60:59</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:59.997-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:04.69-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:04.69-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23e80125,CIDATE 07/11/2016</Description>
+    <Purchase_Date>2014-11-19T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2015-12-18T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>32P02.harpergrey.internal</DNS_Name>
+    <Location>32nd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNDCGC528R</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>32P03</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P4015</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.57</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:1F:29:24:D5:2E</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2015-12-18T15:23:00.483-08:00</Firstseen>
+    <Lastseen>2022-01-09T13:06:51.24-08:00</Lastseen>
+    <LastTried>2022-01-09T13:06:51.24-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.43.39,CIDATE 07/15/2014</Description>
+    <Purchase_Date>2008-09-18T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2009-10-17T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>32P03.harpergrey.internal</DNS_Name>
+    <Location>32nd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNDY230079</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>33C01</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>Canon iR-ADV 6265 27.04</Model>
+    <Manufacturer>CANON Inc.</Manufacturer>
+    <IP_Address>192.168.100.110</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>2C:9E:FC:1C:69:31</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2015-12-18T15:23:49.377-08:00</Firstseen>
+    <Lastseen>2021-12-28T12:37:50.457-08:00</Lastseen>
+    <LastTried>2021-12-28T12:37:50.457-08:00</LastTried>
+    <Description>Canon iR-ADV 6265 /P</Description>
+    <FQDN />
+    <DNS_Name>33c01.harpergrey.internal</DNS_Name>
+    <Location>33rd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>NML06520</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>33P02</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P4015</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.61</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>78:AC:C0:8E:60:4E</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:06.153-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:17.237-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:17.237-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.43.39,CIDATE 07/15/2014</Description>
+    <FQDN />
+    <DNS_Name>33P02.harpergrey.internal</DNS_Name>
+    <Location>33rd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNDYC01310</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>33P03</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P4015</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.63</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:21:5A:7A:C6:9D</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:06.687-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:23.267-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:23.267-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.43.39,CIDATE 07/15/2014</Description>
+    <Purchase_Date>2008-09-18T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2009-10-17T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>33P03.harpergrey.internal</DNS_Name>
+    <Location>33rd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNDY230294</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>33P04</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P4015</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.17</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:1E:0B:16:07:94</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:23.167-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:46.783-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:46.783-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.43.39,CIDATE 07/15/2014</Description>
+    <Purchase_Date>2008-06-09T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2009-07-08T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>33P04.harpergrey.internal</DNS_Name>
+    <Location>33rd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNDY106070</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>33P05</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P4015</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.67</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:21:5A:7A:18:2D</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:12.123-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:27.783-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:27.783-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.43.39,CIDATE 07/15/2014</Description>
+    <Purchase_Date>2008-09-18T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2009-10-17T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>33P05.harpergrey.internal</DNS_Name>
+    <Location>33rd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNDY230077</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>33P07</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.64</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F0:92:1C:66:5A:FE</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:03.513-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:13.487-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:13.487-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:VNG4X24725,FN:Z430LRL,SVCID:23341,PID:33P07-Personal</Description>
+    <Purchase_Date>2013-11-06T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2014-12-05T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>33P07.harpergrey.internal</DNS_Name>
+    <Location>33rd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>VNG4X24725</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>33P08</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 600 M602</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.65</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>C4:34:6B:1A:17:BA</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:09.81-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:37.05-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:37.05-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23900015,CIDATE 02/23/2018</Description>
+    <Purchase_Date>2014-05-08T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2015-06-06T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>33P08.harpergrey.internal</DNS_Name>
+    <Location>33rd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNCCG4X117</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>HP04791B</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain>WORKGROUP</Domain>
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet Pro M404dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.95</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>30:24:A9:04:79:1B</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2021-02-27T12:11:13.967-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:11:00.877-08:00</Lastseen>
+    <LastTried>2023-01-17T12:11:00.877-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT</Description>
+    <FQDN />
+    <DNS_Name>HP04791B.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHDBH00680</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>HP07F387</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain>WORKGROUP</Domain>
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet Pro M404dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.28</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>80:E8:2C:07:F3:87</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2020-02-11T12:09:37.373-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:57.55-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:57.55-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT</Description>
+    <FQDN />
+    <DNS_Name>PRtrancan.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBB326662</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>HP93BC2D</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain>WORKGROUP</Domain>
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet Pro M404dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.90</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>38:22:E2:93:BC:2D</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2017-07-09T12:04:33.933-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:51.83-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:51.83-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT</Description>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBB617498</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>iR-ADV C7565</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>Canon iR</Model>
+    <Manufacturer>CANON Inc.</Manufacturer>
+    <IP_Address>192.168.100.132</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>60:12:8B:F7:8B:6E</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2019-01-04T12:01:59.257-08:00</Firstseen>
+    <Lastseen>2023-01-16T12:09:11.19-08:00</Lastseen>
+    <LastTried>2023-01-16T12:09:11.19-08:00</LastTried>
+    <Description>Canon iR-ADV C7565 /P</Description>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>XXJ03257</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>iR-ADV C7765</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>Canon iR</Model>
+    <Manufacturer>CANON Inc.</Manufacturer>
+    <IP_Address>192.168.100.102</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>34:9F:7B:D6:0E:E4</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2021-12-31T13:31:58.633-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:11:55.953-08:00</Lastseen>
+    <LastTried>2023-01-17T12:11:55.953-08:00</LastTried>
+    <Description>Canon iR-ADV C7765 /P</Description>
+    <FQDN />
+    <DNS_Name>31c01.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>3FR02079</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>iR-ADV C7765</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>Canon iR</Model>
+    <Manufacturer>CANON Inc.</Manufacturer>
+    <IP_Address>192.168.100.106</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>34:9F:7B:D6:10:16</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2021-12-31T13:33:08.477-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:12:01.033-08:00</Lastseen>
+    <LastTried>2023-01-17T12:12:01.033-08:00</LastTried>
+    <Description>Canon iR-ADV C7765 /P</Description>
+    <FQDN />
+    <DNS_Name>32c01.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>3FR02181</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>iR-ADV C7765</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>Canon iR</Model>
+    <Manufacturer>CANON Inc.</Manufacturer>
+    <IP_Address>192.168.100.107</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>34:9F:7B:D5:E6:73</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2021-12-30T13:35:49.233-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:12:02.5-08:00</Lastseen>
+    <LastTried>2023-01-17T12:12:02.5-08:00</LastTried>
+    <Description>Canon iR-ADV C7765 /P</Description>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>3FR02322</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI054A41</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet Pro M501dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.68</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>98:E7:F4:05:4A:41</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2022-05-27T12:09:55.28-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:43.423-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:43.423-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBTQ04612,FN:3E017HS,SVCID:28022,PID:HP LaserJet Pro M501dn</Description>
+    <FQDN />
+    <DNS_Name>NPI054A41.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBTQ04612</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI38BF52</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet MFP M527</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.120</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>48:BA:4E:38:BF:52</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2018-01-24T12:04:27.7-08:00</Firstseen>
+    <Lastseen>2022-01-09T13:17:55.143-08:00</Lastseen>
+    <LastTried>2022-01-09T13:17:55.143-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI23e80165,CIDATE 09/22/2017</Description>
+    <Purchase_Date>2017-11-29T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2018-12-28T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>acct-ricoh.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>MXBCKC20JY</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI6052D4</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.32</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>10:E7:C6:60:52:D4</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2018-05-31T12:03:29.94-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:00.737-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:00.737-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQF83157,FN:1L75GTZ,SVCID:28134,PID:31P24-Personal</Description>
+    <Purchase_Date>2018-05-30T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2019-05-29T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQF83157</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI611C4F</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 600 M602</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.60</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F0:92:1C:61:1C:4F</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:06.327-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:15.877-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:15.877-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD149,EEPROM JDI23900015,CIDATE 02/23/2018</Description>
+    <Purchase_Date>2013-10-03T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2014-11-01T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>NPI611C4F.harpergrey.internal</DNS_Name>
+    <Location>33rd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNCCF9L0MP</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI73D024</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60065</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.52</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F4:30:B9:73:D0:24</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2017-10-24T12:03:29.973-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:42.003-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:42.003-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24110061,CIDATE 08/18/2022</Description>
+    <Purchase_Date>2017-10-17T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2018-10-16T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCK7L15J</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI73D026</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60065</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.51</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F4:30:B9:73:D0:26</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2017-11-01T12:03:46.87-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:43.627-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:43.627-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24070006,CIDATE 11/08/2018</Description>
+    <Purchase_Date>2017-07-25T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2018-08-23T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCK7L163</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI73D039</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60065</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.55</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F4:30:B9:73:D0:39</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2017-10-24T12:03:33.257-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:59.893-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:59.893-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI25040022,CIDATE 02/08/2022</Description>
+    <Purchase_Date>2017-07-25T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2018-08-23T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCK7L14Y</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI73D049</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60065</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.59</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F4:30:B9:73:D0:49</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2017-10-25T12:03:38.663-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:07.487-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:07.487-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24r10033,CIDATE 03/10/2017</Description>
+    <Purchase_Date>2017-07-25T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2018-08-23T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>32p05.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCK7L15H</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI82D1CE</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet MFP E52645</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.89</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:68:EB:82:D1:CE</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2020-12-09T12:11:38.88-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:11:06.657-08:00</Lastseen>
+    <LastTried>2023-01-17T12:11:06.657-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24110014,CIDATE 07/25/2020</Description>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>MXBCN2T0J7</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI8492C6</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60165</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.39</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>9C:7B:EF:84:92:C6</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2022-05-27T12:08:55.967-07:00</Firstseen>
+    <Lastseen>2022-06-15T13:14:55.223-07:00</Lastseen>
+    <LastTried>2022-06-15T13:14:55.223-07:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24100002,CIDATE 12/11/2019</Description>
+    <FQDN />
+    <DNS_Name>NPI8492C6.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCM5D0ZM</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI87C720</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P4515</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.58</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:23:7D:87:C7:20</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2020-07-01T12:10:21.24-07:00</Firstseen>
+    <Lastseen>2022-01-09T13:07:02.427-08:00</Lastseen>
+    <LastTried>2022-01-09T13:07:02.427-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD143,EEPROM V.44.00,CIDATE 01/16/2017</Description>
+    <FQDN />
+    <DNS_Name>NPI8B24E8.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNDY405702</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPI9F9D7F</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P2055dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.74</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>78:E7:D1:9F:9D:7F</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:15.107-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:39.47-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:39.47-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD137,EEPROM V.37.18,CIDATE 11/13/2014,IT debuglite</Description>
+    <Purchase_Date>2010-06-18T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2011-07-17T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>NPI9F9D7F.harpergrey.internal</DNS_Name>
+    <Location>32nd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNB9036789</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIAD158C</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.22</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>10:62:E5:AD:15:8C</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2018-10-27T12:00:12.597-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:48.563-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:48.563-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQH60261,FN:1L7DPK6,SVCID:28296,PID:31P06-Personal</Description>
+    <Purchase_Date>2018-09-26T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2019-10-25T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQH60261</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIB78F70</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60165</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.54</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>5C:60:BA:B7:8F:70</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2022-12-30T12:06:58.977-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:50.423-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:50.423-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI25050251,CIDATE 10/12/2022</Description>
+    <FQDN />
+    <DNS_Name>31P05.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHNCQB5248</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIB8F7A9</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.94</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>30:E1:71:B8:F7:A9</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2017-09-01T12:03:39.61-07:00</Firstseen>
+    <Lastseen>2022-01-09T13:13:08.817-08:00</Lastseen>
+    <LastTried>2022-01-09T13:13:08.817-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQF55009,FN:1L60473,SVCID:27207,PID:HP LaserJet M402dn</Description>
+    <Purchase_Date>2017-07-27T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2018-07-26T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>NPIB8F7A9.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQF55009</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIC12968</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.72</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>FC:3F:DB:C1:29:68</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2018-05-26T12:04:06.653-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:30.017-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:30.017-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQD30068,FN:1L37HFJ,SVCID:26184,PID:31Cheque1</Description>
+    <Purchase_Date>2016-07-05T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2017-07-04T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>30Cheque1.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQD30068</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIC87E7C</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60165</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.58</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>48:9E:BD:C8:7E:7C</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2022-05-27T12:09:35.343-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:08.173-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:08.173-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI25030030,CIDATE 11/09/2021</Description>
+    <FQDN />
+    <DNS_Name>NPI8B24E8.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHNC17UHIZ</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIC87EDB</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60165</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.57</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>48:9E:BD:C8:7E:DB</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2022-05-27T12:09:35.047-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:06.627-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:06.627-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI25030030,CIDATE 11/09/2021</Description>
+    <FQDN />
+    <DNS_Name>32P03.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHNC17UHIR</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIDAC9F9</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60065</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.70</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>48:BA:4E:DA:C9:F9</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2018-08-14T12:00:57.183-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:33.767-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:33.767-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24070006,CIDATE 11/08/2018</Description>
+    <Purchase_Date>2018-02-01T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2019-03-02T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCL1J034</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIDDF999</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet E60165</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.131</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>C4:65:16:DD:F9:99</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2020-06-05T12:12:12.157-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:11:53.063-08:00</Lastseen>
+    <LastTried>2023-01-17T12:11:53.063-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24100002,CIDATE 12/11/2019</Description>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNMCM5D12K</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIEEB28B</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.150.57</IP_Address>
+    <IP_Location>ST Workstation Subnet</IP_Location>
+    <MAC_Address>F4:30:B9:EE:B2:8B</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2020-08-14T12:13:57.727-07:00</Firstseen>
+    <Lastseen>2022-01-09T21:57:05.557-08:00</Lastseen>
+    <LastTried>2022-01-09T21:57:05.557-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQD70055,FN:1L69FKC,SVCID:27309,PID:HP LaserJet M402dn</Description>
+    <FQDN />
+    <DNS_Name>NPIEEB28B.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQD70055</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIEEB2FE</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.91</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F4:30:B9:EE:B2:FE</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2018-02-16T12:04:09.62-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:52.533-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:52.533-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQF68388,FN:1L69FNV,SVCID:27309,PID:PRDDhrnnsaw</Description>
+    <Purchase_Date>2017-11-20T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2018-11-19T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>NPIEEB2FE.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQF68388</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>NPIF876D8</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP Color LaserJet E55040</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.33</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F8:0D:AC:F8:76:D8</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2021-10-06T12:09:33.957-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:13.127-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:13.127-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD153,EEPROM JSI24110014,CIDATE 07/25/2020</Description>
+    <FQDN />
+    <DNS_Name>33P06.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>JPBCP2B05L</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>OC-CEJD0Q6FT1PB</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain>WORKGROUP</Domain>
+    <lastuser />
+    <OS />
+    <Model>Oce, VarioPrint 130</Model>
+    <Manufacturer>Océ Technologies BV</Manufacturer>
+    <IP_Address>192.168.100.134</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:03:2D:49:49:B4</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2021-01-29T12:11:49.463-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:11:56.533-08:00</Lastseen>
+    <LastTried>2023-01-17T12:11:56.533-08:00</LastTried>
+    <Description>Oce, VarioPrint 130 R7.2.1.0, PRISMAsync R21.2.303.70</Description>
+    <FQDN />
+    <DNS_Name>OC-CEJD0Q6FT1PB.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>698505080</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>pradosouto</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.82</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>48:0F:CF:CB:68:8A</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:19.5-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:44.957-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:44.957-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFB95902,FN:Z45CJ1P,SVCID:25304,PID:pradosouto</Description>
+    <Purchase_Date>2015-08-18T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2016-09-16T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>pradosouto.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFB95902</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PR-akatsiavos</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.27</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>8C:DC:D4:5B:3E:14</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:31.277-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:55.423-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:55.423-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFC42809,FN:Z451HZ5,SVCID:25063,PID:PR-LLarsen</Description>
+    <Purchase_Date>2014-10-16T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2015-11-14T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>PR-akatsiavos.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFC42809</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PRakingsmith</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.34</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>FC:3F:DB:4E:AD:A1</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2016-06-01T12:02:45.23-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:06.627-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:06.627-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQD18962,FN:1L33GSL,SVCID:26150,PID:prakingsmith</Description>
+    <Purchase_Date>2016-04-27T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2017-05-26T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>PRakingsmith.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQD18962</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>pr-aronen</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P2055dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.18</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:25:B3:EC:CD:FD</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:20.54-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:46.44-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:46.44-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD137,EEPROM V.37.18,CIDATE 11/13/2014,IT debuglite</Description>
+    <Purchase_Date>2009-12-18T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2011-01-16T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>pr-aronen.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNB9N71862</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>prcfraser</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.83</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>3C:A8:2A:F6:A3:C6</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:19.25-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:45.503-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:45.503-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFG63918,FN:Z45AXG7,SVCID:25263,PID:prcfraser</Description>
+    <Purchase_Date>2015-11-09T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2016-11-08T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>prcfraser.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFG63918</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PRcwarner</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P2055x</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.73</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>78:E7:D1:9F:E9:6D</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:09.26-08:00</Firstseen>
+    <Lastseen>2023-01-15T12:09:31.647-08:00</Lastseen>
+    <LastTried>2023-01-15T12:09:31.647-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD137,EEPROM V.37.18,CIDATE 11/13/2014,IT debuglite</Description>
+    <Purchase_Date>2010-06-18T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2011-07-17T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>PRcwarner.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNB9036792</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PRDLambert</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.93</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>10:E7:C6:60:52:10</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2018-06-21T12:04:17.543-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:53.877-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:53.877-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQF83190,FN:1L75GN1,SVCID:28134,PID:prdlambert</Description>
+    <Purchase_Date>2018-05-30T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2019-05-29T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>PRDLambert.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQF83190</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>pr-fsuen</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.77</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>64:51:06:24:74:74</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:16.233-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:37.423-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:37.423-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFB33345,FN:Z447851,SVCID:25019,PID:HP LaserJet 400 M401dne</Description>
+    <Purchase_Date>2015-01-20T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2016-01-19T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>pr-fsuen.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFB33345</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PR-gpengelly</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.150.125</IP_Address>
+    <IP_Location>ST Workstation Subnet</IP_Location>
+    <MAC_Address>14:58:D0:3D:BB:3D</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:16.25-08:00</Firstseen>
+    <Lastseen>2023-01-17T13:42:15.197-08:00</Lastseen>
+    <LastTried>2023-01-17T13:42:15.197-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFD44404,FN:Z450SL7,SVCID:25014,PID:PR-gpengelly</Description>
+    <Purchase_Date>2014-10-16T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2015-11-14T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>PR-gpengelly.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFD44404</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PR-HUMANRESOURC</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain>WORKGROUP</Domain>
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet Pro M404dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.92</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>38:22:E2:93:BC:2B</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2021-01-12T12:11:09.747-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:53.453-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:53.453-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT</Description>
+    <FQDN />
+    <DNS_Name>HP93BC2B.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBB617485</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PRhyi</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.30</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>64:51:06:24:74:12</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2015-12-18T15:22:35.48-08:00</Firstseen>
+    <Lastseen>2022-01-09T13:01:53.803-08:00</Lastseen>
+    <LastTried>2022-01-09T13:01:53.803-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFB33349,FN:Z447822,SVCID:25016,PID:PR-hyi</Description>
+    <Purchase_Date>2015-01-20T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2016-01-19T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFB33349</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PR-iborgstrom</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.44</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>38:63:BB:DA:8E:76</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:46.653-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:20.86-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:20.86-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFB59123,FN:Z45590C,SVCID:25097,PID:pr-iborgstrom</Description>
+    <Purchase_Date>2015-02-07T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2016-03-07T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>PR-iborgstrom.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFB59123</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PRITDEPARTMENT</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P2055x</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.53</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:1F:29:1F:5F:C6</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:53.793-08:00</Firstseen>
+    <Lastseen>2022-11-24T12:07:43.847-08:00</Lastseen>
+    <LastTried>2022-11-24T12:07:43.847-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD137,EEPROM V.37.18,CIDATE 11/13/2014,IT debuglite</Description>
+    <FQDN />
+    <DNS_Name />
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNB9L04049</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>prjallin</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.31</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>70:5A:0F:AA:7A:DD</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2016-10-26T12:02:41.537-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:59.877-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:59.877-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQD37110,FN:1L40GNC,SVCID:26294,PID:prksamson</Description>
+    <Purchase_Date>2016-10-24T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2017-10-23T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>prjallin.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQD37110</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PR-jchow</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.80</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>38:63:BB:DD:EA:4C</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:16.233-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:44.533-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:44.533-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFC60872,FN:Z455B97,SVCID:25114,PID:PR-Smajidi</Description>
+    <Purchase_Date>2015-04-24T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2016-04-23T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>PR-jchow.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFC60872</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PRjgaines</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.10</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>FC:3F:DB:4E:DD:42</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2016-07-21T12:02:25.183-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:26.643-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:26.643-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQF17902,FN:1L33HDZ,SVCID:26174,PID:PRjgaines</Description>
+    <Purchase_Date>2016-07-21T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2017-07-20T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>PRjgaines.harpergrey.internal</DNS_Name>
+    <Location>32nd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQF17902</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PR-Lit_Support</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.62</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>70:5A:0F:AA:9A:E4</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2016-09-16T12:03:22.467-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:11.643-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:11.643-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQD36974,FN:1L40H53,SVCID:26239,PID:PR-lit_support</Description>
+    <Purchase_Date>2016-09-14T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2017-09-13T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>PR-Lit_Support.harpergrey.internal</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQD36974</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PRLmai</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.37</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>F4:30:B9:EE:B2:88</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2017-11-09T12:03:12.38-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:09:07.627-08:00</Lastseen>
+    <LastTried>2023-01-17T12:09:07.627-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQD70056,FN:1L69FK9,SVCID:27306,PID:PRlmai</Description>
+    <Purchase_Date>2017-11-07T00:00:00-08:00</Purchase_Date>
+    <Warranty_Date>2018-11-06T00:00:00-08:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQD70056</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PR-lmorgan</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.150.104</IP_Address>
+    <IP_Location>ST Workstation Subnet</IP_Location>
+    <MAC_Address>38:63:BB:D7:F0:FF</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:44.823-08:00</Firstseen>
+    <Lastseen>2023-01-17T13:41:53.43-08:00</Lastseen>
+    <LastTried>2023-01-17T13:41:53.43-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFG41305,FN:Z454ME5,SVCID:25078,PID:PR-Lmorgan</Description>
+    <Purchase_Date>2015-04-02T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2016-04-01T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>PR-lmorgan.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFG41305</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>PRmsever</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.20</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>38:63:BB:D7:C1:03</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:24.417-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:42.017-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:42.017-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFD56538,FN:Z454Q89,SVCID:25133,PID:PRmsever</Description>
+    <Purchase_Date>2015-05-21T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2016-05-20T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name />
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFD56538</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>prntrevethan</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P2055dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.11</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>3C:4A:92:40:A6:23</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:11.873-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:33.627-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:33.627-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD137,EEPROM V.37.18,CIDATE 11/13/2014,IT debuglite</Description>
+    <Purchase_Date>2011-03-25T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2012-03-24T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>prntrevethan.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNB9739929</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>pr-swatson</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet 400 M401dne</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.13</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>28:80:23:15:44:DE</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:22:15.51-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:27.877-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:27.877-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHGFG16951,FN:Z445M3P,SVCID:24259,PID:PRswatson</Description>
+    <Purchase_Date>2014-09-23T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2015-09-22T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>pr-swatson.harpergrey.internal</DNS_Name>
+    <Location>32nd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHGFG16951</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price>272.90</Price>
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>prtgibney</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet M402dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.19</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>B0:5A:DA:C2:12:53</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2016-10-03T12:02:40.25-07:00</Firstseen>
+    <Lastseen>2023-01-17T12:08:41.003-08:00</Lastseen>
+    <LastTried>2023-01-17T12:08:41.003-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,SN:PHBQH07770,FN:1L22S4L,SVCID:26266,PID:prtgibney</Description>
+    <Purchase_Date>2016-09-29T00:00:00-07:00</Purchase_Date>
+    <Warranty_Date>2017-09-28T00:00:00-07:00</Warranty_Date>
+    <FQDN />
+    <DNS_Name>prtgibney.harpergrey.internal</DNS_Name>
+    <Location>30th Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>PHBQH07770</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>prwclark</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain />
+    <lastuser />
+    <OS />
+    <Model>HP LaserJet P2055dn</Model>
+    <Manufacturer>Hewlett-Packard</Manufacturer>
+    <IP_Address>192.168.100.49</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:21:5A:99:E0:39</MAC_Address>
+    <OU />
+    <State>Non-active</State>
+    <Firstseen>2015-12-18T15:22:51.637-08:00</Firstseen>
+    <Lastseen>2022-01-09T13:04:36.74-08:00</Lastseen>
+    <LastTried>2022-01-09T13:04:36.74-08:00</LastTried>
+    <Description>HP ETHERNET MULTI-ENVIRONMENT,ROM none,JETDIRECT,JD137,EEPROM V.37.18,CIDATE 11/13/2014,IT debuglite</Description>
+    <FQDN />
+    <DNS_Name>prwclark.harpergrey.internal</DNS_Name>
+    <Location>33rd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>CNB9L24370</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>RICOH Aficio SP C431DN</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain>WORKGROUP</Domain>
+    <lastuser />
+    <OS />
+    <Model>RICOH MP C2011 1.01 / RICOH Network Printer C model</Model>
+    <Manufacturer>RICOH</Manufacturer>
+    <IP_Address>192.168.100.76</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:26:73:27:2F:28</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:15.547-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:35.643-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:35.643-08:00</LastTried>
+    <Description>RICOH Aficio SP C431DN 1.05 / RICOH Network Printer C model</Description>
+    <FQDN />
+    <DNS_Name>32P12.harpergrey.internal</DNS_Name>
+    <Location>32nd Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>S9419100076</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>RICOH SP C440DN</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain>WORKGROUP</Domain>
+    <lastuser />
+    <OS />
+    <Model>RICOH MP C2011 1.01 / RICOH Network Printer C model</Model>
+    <Manufacturer>RICOH</Manufacturer>
+    <IP_Address>192.168.100.75</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>00:26:73:A4:2D:CD</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2015-12-18T15:23:15.56-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:10:33.407-08:00</Lastseen>
+    <LastTried>2023-01-17T12:10:33.407-08:00</LastTried>
+    <Description>RICOH SP C440DN 1.00.2 / RICOH Network Printer C model</Description>
+    <FQDN />
+    <DNS_Name>31P21.harpergrey.internal</DNS_Name>
+    <Location>31st Floor</Location>
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>X685P400783</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+  <UNNAMED_REPORT>
+    <Name>SERVER-5F9F</Name>
+    <Type>Printer</Type>
+    <Scanning_Issues>0</Scanning_Issues>
+    <Domain>WORKGROUP</Domain>
+    <lastuser />
+    <OS />
+    <Model>Canon iR</Model>
+    <Manufacturer>CANON Inc.</Manufacturer>
+    <IP_Address>192.168.100.100</IP_Address>
+    <IP_Location>ST Printer Subnet</IP_Location>
+    <MAC_Address>A0:42:3F:40:5D:A7</MAC_Address>
+    <OU />
+    <State>Active</State>
+    <Firstseen>2021-01-28T12:11:31.457-08:00</Firstseen>
+    <Lastseen>2023-01-17T12:11:05.627-08:00</Lastseen>
+    <LastTried>2023-01-17T12:11:05.627-08:00</LastTried>
+    <Description>Canon iPR C810-G250 /P</Description>
+    <FQDN />
+    <DNS_Name>E43A-PROC7100SX.hitronhub.home</DNS_Name>
+    <Location />
+    <Building />
+    <Department />
+    <Branchoffice />
+    <Barcode />
+    <Contact />
+    <Serialnumber>3EV00910</Serialnumber>
+    <Order_Number />
+    <Date_Recycled />
+    <Price />
+    <Custom3 />
+    <Custom4 />
+    <Custom5 />
+    <Custom6 />
+    <Custom7 />
+    <Custom8 />
+    <Custom9 />
+    <Custom10 />
+    <Custom11 />
+    <Custom12 />
+    <Custom13 />
+    <Custom14 />
+    <Custom15 />
+    <Custom16 />
+    <Custom17 />
+    <Custom18 />
+    <Custom19 />
+    <Service_Log />
+    <ScannedByFeature>LS</ScannedByFeature>
+    <ServerName />
+    <Scanserver>lansweeper</Scanserver>
+  </UNNAMED_REPORT>
+</DocumentElement>
