@@ -19,7 +19,10 @@ def parseXML(xmlfile):
 
     return OS, Manufacturer, Model, SerialNumber
 
+def uniqueDevices(os, manufacturer, model):
+    OSSet, ManufacturerSet, ModelSet= set(os), set(manufacturer), set(model)
 
+    return OSSet, ManufacturerSet, ModelSet
 
 
 #  use pandas to create a dataframe
@@ -38,7 +41,7 @@ def main():
 
     df = pd.DataFrame(list(zip(OS, Manufacturer, Model, SerialNumber)), columns =['OS', 'Manufacturer', 'Model', 'SerialNumber'])
 
-    print(df)
+    # print(df)
     
     # print results
 
@@ -54,6 +57,10 @@ def main():
     # print("Manufacturer: ", len(Manufacturer))
     # print("Model: ", len(Model))
     # print("SerialNumber: ", len(SerialNumber))
+
+    print(uniqueDevices(OS, Manufacturer, Model)[0])
+    print(uniqueDevices(OS, Manufacturer, Model)[1])
+    print(uniqueDevices(OS, Manufacturer, Model)[2])
 
     pass
 
